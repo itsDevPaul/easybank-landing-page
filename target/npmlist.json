@@ -1,0 +1,1 @@
+{"version":"0.0.0","name":"easybank-landing-page","dependencies":{"esbuild":{"version":"0.17.19"},"nanoid":{"version":"3.3.6"},"picocolors":{"version":"1.0.0"},"postcss-cli":{"version":"10.1.0"},"rollup":{"version":"3.23.0"},"source-map-js":{"version":"1.0.2"}}}
